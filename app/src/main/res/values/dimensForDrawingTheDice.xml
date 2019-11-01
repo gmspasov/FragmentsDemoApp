@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dice_circle_radius">12dp</dimen>
+    <dimen name="dice_rect_left">0dp</dimen>
+    <dimen name="dice_rect_top">0dp</dimen>
+    <dimen name="dice_rect_right">115dp</dimen>
+    <dimen name="dice_rect_bottom">115dp</dimen>
+    <dimen name="dice_dot_center_y">55dp</dimen>
+    <dimen name="dice_dot_center_x">55dp</dimen>
+    <dimen name="dice_dot_left_center_x">40dp</dimen>
+    <dimen name="dice_dot_right_center_x">70dp</dimen>
+    <dimen name="dice_dot_top_y">25dp</dimen>
+    <dimen name="dice_dot_bottom_y">85dp</dimen>
+    <dimen name="dice_dot_left_x">25dp</dimen>
+    <dimen name="dice_dot_right_x">85dp</dimen>
+    <dimen name="dice_rect_oval_x">10dp</dimen>
+    <dimen name="dice_rect_oval_y">10dp</dimen>
+</resources>
