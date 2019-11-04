@@ -23,7 +23,7 @@ import java.util.Random;
         }
 
         public DiceImageView(Context context, @Nullable AttributeSet attrs) {
-            this(context,null,0);
+            this(context,attrs,0);
             init(attrs);
         }
 
